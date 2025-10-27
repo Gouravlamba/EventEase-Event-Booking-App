@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Flutter Workshop",
+    "description": "Hands-on Flutter workshop — build a real app.",
+    "category": "Workshop",
+    "date": "2025-11-12T10:00:00.000Z",
+    "location": "New Delhi",
+    "totalSeats": 50,
+    "bookedSeats": 10,
+    "imageUrl": ""
+  },
+  {
+    "id": "2",
+    "title": "Music Fest 2025",
+    "description": "Live bands and DJs for an unforgettable night.",
+    "category": "Music",
+    "date": "2025-12-05T18:00:00.000Z",
+    "location": "Mumbai",
+    "totalSeats": 200,
+    "bookedSeats": 150,
+    "imageUrl": ""
+  },
+  {
+    "id": "3",
+    "title": "Startup Meetup",
+    "description": "Networking and pitches with founders.",
+    "category": "Business",
+    "date": "2025-10-18T09:00:00.000Z",
+    "location": "Bengaluru",
+    "totalSeats": 80,
+    "bookedSeats": 80,
+    "imageUrl": ""
+  }
+]
