@@ -345,33 +345,34 @@ frontend/
 backend/
 │
 ├── src/
-│   ├── main.py / index.js   # entry point
+│   ├── index.js
 │   ├── config/
-│   │   ├── db.py / db.js
-│   │   ├── jwt_config.py
-│   │   └── settings.py
+│   │   ├── db.js
+│   │   ├── jwt_config.js
+│   │   └── settings.js
 │   ├── models/
-│   │   ├── user_model.py
-│   │   ├── event_model.py
-│   │   └── booking_model.py
+│   │   ├── user_model.js
+│   │   ├── event_model.js
+│   │   └── booking_model.js
 │   ├── routes/
-│   │   ├── auth_routes.py
-│   │   ├── event_routes.py
-│   │   ├── booking_routes.py
-│   │   └── admin_routes.py
+│   │   ├── auth_routes.js
+│   │   ├── event_routes.js
+│   │   ├── booking_routes.js
+│   │   └── admin_routes.js
 │   ├── services/
-│   │   ├── booking_service.py
-│   │   ├── event_service.py
-│   │   └── pdf_service.py
+│   │   ├── booking_service.js
+│   │   ├── event_service.js
+│   │   └── pdf_service.js
 │   ├── middleware/
-│   │   ├── auth_middleware.py
-│   │   └── logger_middleware.py
+│   │   ├── auth_middleware.js
+│   │   └── logger_middleware.js
 │   └── utils/
-│       ├── booking_id_generator.py
-│       └── date_utils.py
+│       ├── booking_id_generator.js
+│       └── date_utils.js
 │
-├── requirements.txt / package.json
+├── package.json
 └── README.md
+
 
 ---
 
