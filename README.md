@@ -87,15 +87,15 @@ It is powered by a **REST/GraphQL backend** with a **PostgreSQL database**, ensu
 ### Frontend:
 - **Framework:** Flutter  
 - **Language:** Dart  
-- **State Management:** Provider / Riverpod (recommended)  
+- **State Management:** Provider
 - **UI Design:** Material Design 3  
 
 ### Backend:
-- **Language:** Node.js (Express) / Django / FastAPI *(choose one)*  
+- **Language:** Node.js (Express)
 - **Database:** PostgreSQL  
-- **ORM:** Sequelize / Prisma / SQLAlchemy / Tortoise ORM  
+- **ORM:** Sequelize / Prisma / SQLAlchemy
 - **Authentication:** JWT (JSON Web Token)  
-- **API Type:** REST / GraphQL  
+- **API Type:** REST
 - **Deployment:** Render / Railway / Heroku  
 
 ---
